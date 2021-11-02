@@ -74,10 +74,16 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We first create three variables named "isStudent", "age" and "zip" and we assign them
+// the values 'true', '34' and '55407' respectively. Next we write a conditional statement
+// that says if  the value of "isStudent" is true AND the value of "zip" is '8000'
+// the computer should console.log the phrase "You're a student on the West Coast!".
+// The conditional goes on with an else if statement that says if "isStudent" has the value of 'false'
+// AND "age" is less than '30' then the computer should console.log the phrase
+// "What are your hobbies?". Another else if statement follows that states if
+// the value of "isStudent" is 'true' (with no other conditions) then the computer should
+// console.log the phrase "Welcome to Prime!". Finally we have an else statement that simply
+// tells the computer to console.log the phrase "How about the weather?".
 
 //CODE
 /*
