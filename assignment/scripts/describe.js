@@ -46,10 +46,13 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// First we create a variable named "secret" and we do not assign it a value. Next,
+// we create a variable called "code" and assign it the numerical value of 123.
+// We then write a conditional statement that says if the value of "code" is 123,
+// then "secret" gets assigned the string value of 'super' and the value of "code"
+// gets multiplied by 2. After this, we write another conditional statement that says
+// if "code" is greater than the numerical value 250 then "secret" gets assigned the string value
+// 'duper'. The last step in the code block is to console.log the value of "secret".
 
 //CODE
 /*
