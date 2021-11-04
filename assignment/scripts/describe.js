@@ -139,6 +139,8 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+// The instructions say that colorOne should be set to 'blue' and colorTwo should be set to 'red'.
+// Solution: switch the values of colorOne and colorTwo.
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -157,6 +159,9 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+// The instructions indicate there should be an AND operator in the conditional,
+// not an OR operator. Solution: change OR operator to AND operator.
+
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -170,6 +175,10 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
+// The instructions say that the conditional should check if 'minAge' is GREATER
+// than or equal to 'age' not less than or equal to. Solution: change the operator
+// to greater than or equal to.
+ 
 if(minAge <= age) {
   console.log('no entry');
 } else {
